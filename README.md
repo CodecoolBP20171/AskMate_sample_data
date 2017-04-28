@@ -1,1 +1,1 @@
-# AskMate_sample_data
+Sample data for the AskMate project
